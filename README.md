@@ -6,9 +6,9 @@ Hi there, I'm **Younes KHOUBZA**, a **Web Developer** and a **Open-source mainta
 
 ### Talking about Personal Stuffs:
   - 🔭 I’m currently working on my personal projects
-  - ⚡ Excited to create open-source projects
+  - ⚡  Excited to create open-source projects
   - 🌱 I’m currently learning **hexagonal architecture** and **domain driven design**
-  - 💕 I'm currently maintain **yoeunes/toastr**, **yoeunes/notify** and also a lot of libraries at **php-flasher** organization
+  - 💕 I'm currently maintaining **yoeunes/toastr**, **yoeunes/notify** and the **php-flasher** organization
   - 📫 You can reach me at <a href="mailto:younes.khoubza@gmail.com">younes.khoubza@gmail.com</a>
   
 <p>
