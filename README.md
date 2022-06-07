@@ -1,20 +1,8 @@
 ### Hi there 👋 , I'm Younes KHOUBZA!
-![Profile Views](https://gpvc.arturio.dev/yoeunes)
-![image](https://img.shields.io/github/followers/yoeunes?label=follow&style=social)
-    
+
 Hi there, I'm **Younes KHOUBZA**, a **Web Developer** and a **Open-source maintainer** 🚀 from Morocco 🇲🇦.
 
-### Talking about Personal Stuffs:
-  - 🔭 I’m currently working on my personal projects
-  - ⚡  Excited to create open-source projects
-  - 🌱 I’m currently learning **hexagonal architecture** and **domain driven design**
-  - 💕 I'm currently maintaining **yoeunes/toastr**, **yoeunes/notify** and the **php-flasher** organization
-  - 📫 You can reach me at <a href="mailto:younes.khoubza@gmail.com">younes.khoubza@gmail.com</a>
-  
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=yoeunes&show_icons=true" height=178 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoeunes&layout=compact" height=178 />
-</p>
+<img src="/general.svg" alt="Metrics" width="100%">
 
 ### Let's connect!
 <p>
