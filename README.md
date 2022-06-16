@@ -1,6 +1,4 @@
-### Hi there 👋 , I'm Younes KHOUBZA!
-
-Hi there, I'm **Younes KHOUBZA**, a **Web Developer** and a **Open-source maintainer** 🚀 from Morocco 🇲🇦.
+### Hi there 👋, I'm **Younes KHOUBZA**, a **Web Developer** and a **Open-source maintainer** 🚀 from Morocco 🇲🇦.
 
 <img src="/general.svg" alt="Metrics" width="100%">
 
